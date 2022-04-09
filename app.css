@@ -12,7 +12,7 @@
 #second {
     position: absolute;
     background: black;
-    border-radius: 50%;
+    border-radius: 60%;
     transform-origin: bottom;
 }
 
